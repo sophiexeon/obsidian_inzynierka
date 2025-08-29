@@ -132,12 +132,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grammatical quality.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "grammatical quality"
+              "title": "Home"
             }
           }
         ]
@@ -289,13 +289,14 @@
   },
   "active": "ffe0f26177280088",
   "lastOpenFiles": [
+    "Notatki o notatkach.md",
+    "Home.md",
+    "Untitled.md",
+    "grammatical quality.md",
+    "Welcome.md",
     "fastText.md",
     "czytelność tekstu - polski.md",
-    "grammatical quality.md",
-    "Home.md",
-    "Welcome.md",
     "spaCy.md",
-    "Notatki o notatkach.md",
     "png/spacy_chapter.png",
     "częste funkcje.md",
     "Pasted image 20250811165309.png",

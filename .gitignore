@@ -1,3 +1,7 @@
+# local 
+.obsidian/workspace
+.obsidian/appearance.json
+
 # Ignore system files
 .DS_Store
 Thumbs.db
